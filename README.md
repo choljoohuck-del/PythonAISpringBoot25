@@ -4,7 +4,8 @@ Python과 CCTV와 풀스택 개발 학습
 
 스프링부트와파이썬AI협업모듈
 
-개발환경구축
+개발환경구축<img width="2813" height="1372" alt="image" src="https://github.com/user-attachments/assets/d24b980a-5936-4afa-a7f6-7f70fa8ff4d3" />
+
 
 파이썬 인터프리터 : http://www.python.org/ -> 3.12버전 설치(3.8이상필수)
 
